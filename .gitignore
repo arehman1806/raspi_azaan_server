@@ -1,0 +1,6 @@
+env
+config
+.vscode
+.idea
+prayer_timings/*
+__pycache__
